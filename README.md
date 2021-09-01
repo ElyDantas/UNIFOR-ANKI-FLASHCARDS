@@ -8,6 +8,8 @@ Fique a vontade para entrar em contato ou fazer um pull request de arquivos cria
 
 Este repositório tem um intuito geral de servir como base de conhecimento para aqueles que querem estudar usando anki colaborativamente nos cursos da Unifor.
 
+Técnicas de estudo: https://www.unifor.br/web/melhor-profissao/como-estudar-3-dicas-para-voce-aprender-a-aprender
+
 ### Cursos ###
 
 - PSICOLOGIA
